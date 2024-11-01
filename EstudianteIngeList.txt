@@ -1,0 +1,32 @@
+Cedula: 1040872109
+Nombre: Juan
+Apellido: Rodas
+Telefono: 3015134441
+Semestre: 5
+Promedio: 4.0
+Serial: null
+---------------------------------------
+Cedula: 15354692
+Nombre: Jose Fidel
+Apellido: Rodas
+Telefono: 3012708909
+Semestre: 7
+Promedio: 4.2
+Serial: null
+---------------------------------------
+Cedula: 1020399347
+Nombre: Isabella
+Apellido: Torres
+Telefono: 3005238902
+Semestre: 3
+Promedio: 4.0
+Serial: null
+---------------------------------------
+Cedula: 1056789123
+Nombre: Salome
+Apellido: Jimenez
+Telefono: 3026789012
+Semestre: 8
+Promedio: 3.5
+Serial: null
+---------------------------------------

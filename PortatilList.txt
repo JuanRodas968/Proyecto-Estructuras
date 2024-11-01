@@ -1,0 +1,24 @@
+Serial: CNF1234XYZ
+Marca: Hp
+Tamaño: 13.3
+Precio: 3000000.0
+SisOperativo: Windows 10
+Procesador: Intel Core i5
+Estado: 2
+---------------------------------------
+Serial: 3QY45P2
+Marca: Dell
+Tamaño: 15.6
+Precio: 4500000.0
+SisOperativo: Windows 11
+Procesador: Intel Core i5
+Estado: 2
+---------------------------------------
+Serial: H6N0CV123456
+Marca: Asus
+Tamaño: 16.7
+Precio: 5000000.0
+SisOperativo: Windows 11
+Procesador: Intel Core i5
+Estado: 2
+---------------------------------------

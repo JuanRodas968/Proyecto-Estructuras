@@ -1,0 +1,24 @@
+Cedula: 1023456789
+Nombre: Mario
+Apellido: Perez
+Telefono: 3001234567
+Modalidad: Presencial
+CantAsignaturas: 5
+Serial: null
+---------------------------------------
+Cedula: 1012345678
+Nombre: Maria
+Apellido: Rodriguez
+Telefono: 3102345678
+Modalidad: Virtual
+CantAsignaturas: 4
+Serial: null
+---------------------------------------
+Cedula: 1076543210
+Nombre: Ana
+Apellido: Torres
+Telefono: 3014567890
+Modalidad: Alternancia
+CantAsignaturas: 6
+Serial: null
+---------------------------------------

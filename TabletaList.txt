@@ -1,0 +1,24 @@
+Serial: DX3L9P7ZQL8M
+Marca: Apple
+Tamaño: 10.2
+Precio: 5000000.0
+Almacenamiento: 1 TB
+Peso: 0.49
+Estado: 2
+---------------------------------------
+Serial: R9YN60V87XG
+Marca: Samsung
+Tamaño: 10.5
+Precio: 4500000.0
+Almacenamiento: 512 GB
+Peso: 0.45
+Estado: 2
+---------------------------------------
+Serial: YT123KZ04LJ
+Marca: Lenovo
+Tamaño: 10.1
+Precio: 3500000.0
+Almacenamiento: 256 GB
+Peso: 0.4
+Estado: 2
+---------------------------------------
